@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="100" alt="NixOS Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" width="100" alt="Tor Logo" />
+</p>
+
+<h1 align="center">NixOS Tor Middle Relay</h1>
+
 # NixOS Tor Middle Relay on Hetzner Cloud
 
 This is a ready-to-use NixOS configuration to set up a **Tor Middle Relay** on a Hetzner Cloud VPS. It is optimized for a 15TB traffic limit and 100Mbit bandwidth.
